@@ -1,1 +1,24 @@
 README.md
+# Thư mục biên dịch
+bin/
+obj/
+
+# Thư mục cấu hình IDE
+.vs/
+.idea/
+
+# Thư mục gói NuGet
+packages/
+
+# Tệp cấu hình cục bộ
+appsettings.Development.json
+appsettings.Local.json
+
+# Tệp log
+*.log
+
+# Thư mục Node.js
+node_modules/
+
+# Tệp nhạy cảm
+*.secrets.json
