@@ -2,6 +2,7 @@ README.md
 # Thư mục biên dịch
 bin/
 obj/
+obj/*
 
 # Thư mục cấu hình IDE
 .vs/
